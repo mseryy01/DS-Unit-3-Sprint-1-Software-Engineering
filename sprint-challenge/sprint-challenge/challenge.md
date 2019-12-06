@@ -262,9 +262,20 @@ career here, you'll have to answer the following:
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
+  
+  Answer:
+  Code review gives us possibility to find bugs and errors that might have been overlooked. 
+  It gives us a chance to learn from others and improve our code and style. 
+  Positive feedback is always a huge plus to anyone’s confidence and highlights the things that we do well 
+  so we can use them again and continue to improve on them.
+  
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
+  
+  Answer:
+  Containers make reproducibility easier. 
+  That is to ensure that an application that can run on one computer will run on all of other computers the same way.
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
